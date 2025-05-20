@@ -1,0 +1,7 @@
+openai
+sendgrid
+python-dotenv
+google-api-python-client
+youtube-transcript-api
+isodate
+
